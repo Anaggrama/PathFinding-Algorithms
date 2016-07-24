@@ -1,0 +1,9 @@
+D:\Programacion\C#\PathFinding\PathFinding\PathFinding\bin\Debug\PathFinding.exe
+D:\Programacion\C#\PathFinding\PathFinding\PathFinding\bin\Debug\PathFinding.pdb
+D:\Programacion\C#\PathFinding\PathFinding\PathFinding\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programacion\C#\PathFinding\PathFinding\PathFinding\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+D:\Programacion\C#\PathFinding\PathFinding\PathFinding\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programacion\C#\PathFinding\PathFinding\PathFinding\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programacion\C#\PathFinding\PathFinding\PathFinding\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programacion\C#\PathFinding\PathFinding\PathFinding\obj\x86\Debug\PathFinding.exe
+D:\Programacion\C#\PathFinding\PathFinding\PathFinding\obj\x86\Debug\PathFinding.pdb
